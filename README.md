@@ -17,24 +17,17 @@ EZria is an intelligent **study organization and time management application** d
 ✅ **AI-Powered Study Materials** – Automatically generate **summaries, flashcards, and study notes** from lecture slides.  
 ✅ **Personalized Study Plans** – Create tailored study schedules with **goal-setting and progress tracking**.  
 ✅ **Study Tracker** – Log study hours, track task completion, and analyze study performance.  
-✅ **Collaborative Learning** – Share study materials, notes, and insights with peers.  
-
----
-
-## 📸 Demo Preview  
-🔹 **UI Screenshots:** *(Add images of your app UI here)*  
-🔹 **Project Video:** *(Provide a link to a demo video showcasing EZria in action)*  
-🔹 **Technical Diagrams:** *(Include any relevant system architecture or workflow diagrams)*  
 
 ---
 
 ## 🛠️ How to Explore the Demo  
 Although the full application source code is not included in this repository, you can still explore EZria's features in the following ways:  
 
-1. **Watch the Demo Video:** 📽️ [Demo](https://www.youtube.com/watch?v=V-hTpv9-im0)
-2. **View UI Screenshots:** 🖼️ *(Add images or a link to a gallery)*  
-3. **Read Technical Documentation:** 📄 *(Provide any available docs, diagrams, or explanations about the app architecture)*  
-4. **Try the Prototype (if available):** 🖥️ *(Provide a link if you have a live demo or prototype)*  
+1. **Portofoli:** [Project Portfolio](https://seniorproject.sit.kmutt.ac.th/showproject/CS64-RE10)
+2. **Watch the Demo Video:** 📽️ [Demo](https://www.youtube.com/watch?v=V-hTpv9-im0)
+3. 
+4. **View UI Screenshots:** 🖼️ *(Add images or a link to a gallery)*  
+5. **Read Technical Documentation:** 📄 *(Provide any available docs, diagrams, or explanations about the app architecture)*  
 
 ---
 
