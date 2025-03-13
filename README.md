@@ -48,8 +48,6 @@ EZria aims to continuously improve with features like:
 ## 🤝 Contributing  
 Since this is a demo repository, contributions are not currently accepted. However, feel free to provide **feedback, suggestions, or ideas** for future enhancements!  
 
-📩 For inquiries, reach out at: **[Your Contact Email or GitHub Issues Section]**  
-
 ---
 
 ## 📜 License  
