@@ -50,11 +50,6 @@ Since this is a demo repository, contributions are not currently accepted. Howev
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
-
----
-
 🌱 **Empowering students to study smarter with AI.**  
 💡 *Stay organized. Learn efficiently. Achieve more with EZria!*  
 
